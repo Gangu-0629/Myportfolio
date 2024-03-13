@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.8b304d4c.css",
+    "main.js": "/Myportfolio/static/js/main.421baf6d.js",
+    "static/js/453.83234151.chunk.js": "/Myportfolio/static/js/453.83234151.chunk.js",
+    "static/media/MinwayPic.png": "/Myportfolio/static/media/MinwayPic.be99524a509a459f093d.png",
+    "static/media/Mytodopic.png": "/Myportfolio/static/media/Mytodopic.4ef74d8a4fe189eb8b34.png",
+    "static/media/Softpic.png": "/Myportfolio/static/media/Softpic.5016d58664d9bfd87684.png",
+    "static/media/AboutPic.png": "/Myportfolio/static/media/AboutPic.797f0df60d3023685cb6.png",
+    "static/media/MyResume.pdf": "/Myportfolio/static/media/MyResume.e4a5a8e905591ea761b2.pdf",
+    "static/media/java.png": "/Myportfolio/static/media/java.eabf544df16c7a6bff50.png",
+    "static/media/Dsa.png": "/Myportfolio/static/media/Dsa.9aa0a8a16408f2ae8ed7.png",
+    "static/media/Reactimg.png": "/Myportfolio/static/media/Reactimg.4127b36258b5e9dc8f88.png",
+    "static/media/bg.jpg": "/Myportfolio/static/media/bg.968e5eae79bb07fbe3f3.jpg",
+    "static/media/CalPic.png": "/Myportfolio/static/media/CalPic.407f06a71db312912fbc.png",
+    "static/media/Node.png": "/Myportfolio/static/media/Node.e328955d6bbbf3ebc72b.png",
+    "static/media/api.png": "/Myportfolio/static/media/api.02f02c41b4ea4484e148.png",
+    "static/media/Css.png": "/Myportfolio/static/media/Css.d1a3c1e59ca82dbdf815.png",
+    "static/media/Instagram.png": "/Myportfolio/static/media/Instagram.75e0546a6b5abe4c0506.png",
+    "static/media/Mysql.png": "/Myportfolio/static/media/Mysql.d9b6025b0486d446d71e.png",
+    "static/media/menu.png": "/Myportfolio/static/media/menu.7f549c24cb9e8a8ba658.png",
+    "static/media/Html.png": "/Myportfolio/static/media/Html.6e930594286d8afe4c79.png",
+    "static/media/Js.png": "/Myportfolio/static/media/Js.78206ba65e01c7d57080.png",
+    "static/media/Linkedin.png": "/Myportfolio/static/media/Linkedin.f249b38224ca41a0b909.png",
+    "static/media/logo.svg": "/Myportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Myportfolio/index.html",
+    "main.8b304d4c.css.map": "/Myportfolio/static/css/main.8b304d4c.css.map",
+    "main.421baf6d.js.map": "/Myportfolio/static/js/main.421baf6d.js.map",
+    "453.83234151.chunk.js.map": "/Myportfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b304d4c.css",
+    "static/js/main.421baf6d.js"
+  ]
+}
